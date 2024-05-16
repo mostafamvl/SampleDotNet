@@ -262,9 +262,9 @@
       <Project>{46B68031-46B7-40C0-9764-D5626F3A2207}</Project>
       <Name>DAL</Name>
     </ProjectReference>
-    <ProjectReference Include="..\TaskService\TaskService.csproj">
+    <ProjectReference Include="..\TaskService\WindowsService.csproj">
       <Project>{554deef3-f7b8-4fbc-8046-0eecea967303}</Project>
-      <Name>TaskService</Name>
+      <Name>WindowsService</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
